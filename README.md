@@ -1,5 +1,10 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
+~~~
+Name   : H.Syed Abdul Wasih
+Reg No : 212221240057
+Date   : 23/03/2023
+~~~
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
